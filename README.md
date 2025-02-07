@@ -1,4 +1,4 @@
-# 📰 NewsFlow - Newspaper Management System  
+# 📰 NewsTorrent - Newspaper Management System  
 
 ## 📌 About  
 A modern newspaper management system that streamlines news distribution and management. It supports three user roles:  
